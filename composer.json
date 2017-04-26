@@ -1,0 +1,10 @@
+{
+    "name": "elastera/enterprise-page-cache-ssl",
+    "description": "Normally the Full Page Caching of Magento Enterprise doesn't work under SSL / HTTPS. This extension overcome this limitation.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
